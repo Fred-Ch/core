@@ -1,0 +1,8 @@
+{
+  "domain": "nsw_transport_incident_service_feed",
+  "name": "NSW Transport Service Incidents",
+  "documentation": "https://www.home-assistant.io/integrations/nsw_transport_incident_service_feed",
+  "requirements": ["aio_geojson_nsw_transport_incidents==0.1"],
+  "dependencies": [],
+  "codeowners": ["@Fred-Ch"]
+}
