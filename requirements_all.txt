@@ -132,6 +132,9 @@ aio_geojson_geonetnz_volcano==0.5
 # homeassistant.components.nsw_rural_fire_service_feed
 aio_geojson_nsw_rfs_incidents==0.3
 
+# homeassistant.components.nsw_transport_incident_service_feed
+aio_geojson_nsw_transport_incidents==0.1
+
 # homeassistant.components.gdacs
 aio_georss_gdacs==0.3
 
